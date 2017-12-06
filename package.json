@@ -1,0 +1,17 @@
+{
+  "name": "webproxy",
+  "version": "1.0.0",
+  "description": "A simple web proxy server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nitin Sutrave",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "0.17.1",
+    "hapi": "17.1.1",
+    "hapi-require-https": "^2.1.0"
+  }
+}
