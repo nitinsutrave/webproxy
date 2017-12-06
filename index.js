@@ -1,5 +1,5 @@
 'use strict'
 
-const server = require('./server2')
+const server = require('./server')
 
 server.start()
